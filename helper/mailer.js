@@ -1,6 +1,6 @@
+require("dotenv").config();
 const nodemailer = require("nodemailer");
 const { google } = require("googleapis");
-require("dotenv").config();
 
 const CLIENT_ID = " ";
 const CLIENT_SECRET = " ";
